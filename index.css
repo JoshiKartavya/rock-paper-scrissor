@@ -35,3 +35,13 @@ body p{
     color: white;
     cursor: pointer;
 }
+
+.auto-play-button{
+    padding: 30px;
+    border: 3px solid white;
+    font-size: 1rem;
+    background-color: rgb(25, 25, 25);
+    margin-right: 50px;
+    color: white;
+    cursor: pointer;
+}
